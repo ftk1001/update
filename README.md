@@ -1,9 +1,8 @@
-# update
 
 
 
 
-# Oct 8, 2024
+### Oct 8, 2024
 ```
 Surgery started at 7 am.
 
